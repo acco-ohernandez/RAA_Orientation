@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RAA_Orientation</Text>
+    <Description>Some description for RAA_Orientation</Description>
+    <Assembly>RAA_Orientation.dll</Assembly>
+    <FullClassName>RAA_Orientation.Command</FullClassName>
+    <ClientId>7b1b7671-3313-4178-9bb8-875f56a7a049</ClientId>
+    <VendorId>Orlando - Revit Add-in Academy - Orientation</VendorId>
+    <VendorDescription>Orlando training - min17:46, https://www.archsmarter.com/products/revit-add-in-academy/categories/2151449808/posts/2162336298</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RAA_Orientation</Name>
+    <Assembly>RAA_Orientation.dll</Assembly>
+    <FullClassName>RAA_Orientation.App</FullClassName>
+    <ClientId>0a2af21f-f29d-40e7-beed-d4785668fba0</ClientId>
+    <VendorId>Orlando - Revit Add-in Academy - Orientation</VendorId>
+    <VendorDescription>Orlando training - min17:46, https://www.archsmarter.com/products/revit-add-in-academy/categories/2151449808/posts/2162336298</VendorDescription>
+  </AddIn>
+</RevitAddIns>
